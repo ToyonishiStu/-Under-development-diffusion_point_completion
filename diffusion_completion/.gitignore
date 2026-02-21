@@ -1,0 +1,10 @@
+output/
+output_validation/
+testing/
+training/
+__pycache__/
+*.pyc
+*.pyo
+*/experiments/
+.ipynb_checkpoints/
+.vscode/
